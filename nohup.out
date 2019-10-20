@@ -1,0 +1,85 @@
+
+> generate-server@1.0.0 server /home/auto-publish-hexo
+> nohup src/server.js &
+
+nohup: failed to run command ‘src/server.js’: Permission denied
+internal/modules/cjs/loader.js:638
+    throw err;
+    ^
+
+Error: Cannot find module '/home/auto-publish-hexo/src'
+    at Function.Module._resolveFilename (internal/modules/cjs/loader.js:636:15)
+    at Function.Module._load (internal/modules/cjs/loader.js:562:25)
+    at Function.Module.runMain (internal/modules/cjs/loader.js:831:12)
+    at startup (internal/bootstrap/node.js:283:19)
+    at bootstrapNodeJSCore (internal/bootstrap/node.js:622:3)
+应用程序已经启动，访问地址:http://127.0.0.1:8888
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 496 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 550 ms
+网站构建成功

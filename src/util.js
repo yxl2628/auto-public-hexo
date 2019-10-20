@@ -23,7 +23,12 @@ const error = (msg, e, color = 'orangered ') => {
 }
 
 const getKey = (secret, body) => {
-  return 'sha1=' + crypto.createHmac('sha1', secret).update(JSON.stringify(body)).digest('hex');
+ try {
+   return 'sha1=' + crypto.createHmac('sha1', secret).update(JSON.stringify(body)).digest('hex');
+ } catch(e) {
+   error('校验secret失败', e)
+ } 
+ return null;
 }
 
 module.exports = {

@@ -16,29 +16,29 @@ app.use(async (ctx, next) => {
 router.post('/git-hooks', async (ctx) => {
   const { request, response } = ctx
   const sig = request.headers['x-hub-signature']
-  const key = getKey(secret, response.body)
+  const key = getKey(secret, request.body)
   // 校验通过
   if (sig === key) {
     shelljs.cd(targetDir)
     log(`切换到目录：${targetDir}`)
-    const generateCmd = shelljs.exec('yarn generate')
+    const generateCmd = shelljs.exec('hexo clean && hexo generate')
     if (generateCmd.code === 0) {
       log('网站构建成功')
       ctx.response.body = {
-        code: 200,
+        code: 'success',
         message: '网站构建成功'
       };
     } else {
       error('网站构建失败', generateCmd.output)
       ctx.response.body = {
-        code: 500,
+        code: 'error',
         message: '网站构建失败'
       }
     }
   } else {
     error('网站构建失败')
     ctx.response.body = {
-      code: 401,
+      code: 'error',
       message: '权限校验失败'
     }
   }
