@@ -29,14 +29,14 @@ router.post('/git-hooks', async (ctx) => {
         message: '网站构建成功'
       };
     } else {
-      error('网站构建失败', generateCmd.output)
+      error('网站构建失败, 执行过程错误', generateCmd.output)
       ctx.response.body = {
         code: 'error',
         message: '网站构建失败'
       }
     }
   } else {
-    error('网站构建失败')
+    error('网站构建失败,权限校验失败')
     ctx.response.body = {
       code: 'error',
       message: '权限校验失败'
