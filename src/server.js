@@ -21,25 +21,34 @@ router.post('/git-hooks', async (ctx) => {
   if (sig === key) {
     shelljs.cd(targetDir)
     log(`切换到目录：${targetDir}`)
-    const generateCmd = shelljs.exec('hexo clean && hexo generate')
-    if (generateCmd.code === 0) {
-      log('网站构建成功')
-      ctx.response.body = {
-        code: 'success',
-        message: '网站构建成功'
-      };
+    const gitCmd = shelljs.exec('git pull')
+    if (gitCmd.code === 0) {
+      const generateCmd = shelljs.exec('hexo clean && hexo generate')
+      if (generateCmd.code === 0) {
+        log('网站构建成功')
+        ctx.response.body = {
+          code: 'success',
+          message: '网站构建成功'
+        };
+      } else {
+        error('网站构建失败, hexo generate错误', generateCmd.output)
+        ctx.response.body = {
+          code: 'error',
+          message: '网站构建失败, hexo generate错误'
+        }
+      }
     } else {
-      error('网站构建失败, 执行过程错误', generateCmd.output)
+      error('网站构建失败, 拉取git仓库失败', gitCmd.output)
       ctx.response.body = {
         code: 'error',
-        message: '网站构建失败'
+        message: '网站构建失败, 拉取git仓库失败'
       }
     }
   } else {
     error('网站构建失败,权限校验失败')
     ctx.response.body = {
       code: 'error',
-      message: '权限校验失败'
+      message: '网站构建失败,权限校验失败'
     }
   }
 })
