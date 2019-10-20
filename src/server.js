@@ -13,7 +13,7 @@ app.use(async (ctx, next) => {
   await next()
 })
 
-router.get('/git-hooks', async (ctx) => {
+router.post('/git-hooks', async (ctx) => {
   const { request, response } = ctx
   const sig = request.headers['x-hub-signature']
   const key = getKey(secret, response.body)

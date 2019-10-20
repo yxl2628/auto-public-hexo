@@ -8,7 +8,7 @@
     "server": "nohup src/server.js &"
   },
   "author": "yang.xiaolong",
-  "github": "",
+  "github": "https://github.com/yxl2628/auto-public-hexo",
   "license": "ISC",
   "dependencies": {
     "chalk": "^2.4.2",
