@@ -23,7 +23,7 @@ router.post('/git-hooks', async (ctx) => {
     log(`切换到目录：${targetDir}`)
     const gitCmd = shelljs.exec('git pull')
     if (gitCmd.code === 0) {
-      const generateCmd = shelljs.exec('hexo clean && hexo generate')
+      const generateCmd = shelljs.exec('hexo generate')
       if (generateCmd.code === 0) {
         log('网站构建成功')
         ctx.response.body = {

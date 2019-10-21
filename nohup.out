@@ -83,3 +83,611 @@ INFO  Generated: fonts/lanting/lanting.TTF
 INFO  Generated: fonts/lanting/lanting.otf
 INFO  61 files generated in 550 ms
 网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 396 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 486 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 378 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 492 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 412 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 531 ms
+网站构建成功
+应用程序已经启动，访问地址:http://127.0.0.1:8888
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+From github.com:yxl2628/blog
+   057a9e6..072ccda  master     -> origin/master
+Updating 986fd98..072ccda
+Fast-forward
+ _posts/hexo_auto_pull_git.md | 60 ++++++++++++++++++--------------------------
+ 1 file changed, 25 insertions(+), 35 deletions(-)
+INFO  Deleted database.
+INFO  Start processing
+INFO  Files loaded in 414 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 565 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+Already up-to-date.
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 434 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 495 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+Already up-to-date.
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 449 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: archives/2019/page/2/index.html
+INFO  Generated: archives/2019/10/page/2/index.html
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: 2019/10/18/javascript/index.html
+INFO  Generated: 2019/10/20/hexo_auto_pull_git/index.html
+INFO  Generated: 2019/10/18/aliPay/index.html
+INFO  Generated: 2019/10/18/wechatPay/index.html
+INFO  Generated: 2019/10/18/centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/18/webpack-3/index.html
+INFO  Generated: 2019/10/18/webpack-1/index.html
+INFO  Generated: 2019/10/18/webpack-2/index.html
+INFO  Generated: 2019/10/18/nginx/index.html
+INFO  Generated: 2019/10/18/webpack-4/index.html
+INFO  Generated: 2019/10/18/webpack-proxy/index.html
+INFO  Generated: 2019/10/18/nginx-config/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  61 files generated in 572 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+From github.com:yxl2628/blog
+   072ccda..14b9e39  master     -> origin/master
+Updating 072ccda..14b9e39
+Fast-forward
+ _posts/{webpack-1.md => 2018-08-24-webpack-1.md}                    | 1 +
+ _posts/{webpack-2.md => 2018-08-25-webpack-2.md}                    | 1 +
+ _posts/{webpack-3.md => 2018-08-26-webpack-3.md}                    | 1 +
+ _posts/{webpack-4.md => 2018-08-27-webpack-4.md}                    | 1 +
+ _posts/{nginx-config.md => 2018-11-02-nginx-config.md}              | 1 +
+ _posts/{nginx.md => 2018-11-09-nginx.md}                            | 1 +
+ _posts/{javascript.md => 2018-12-07-javascript.md}                  | 1 +
+ ...ll_shadowscocks.md => 2019-05-21-centos_install_shadowscocks.md} | 1 +
+ _posts/{webpack-proxy.md => 2019-08-05-webpack-proxy.md}            | 1 +
+ _posts/2019-10-19-aliPay.md                                         | 6 ++++++
+ _posts/2019-10-19-wechatPay.md                                      | 6 ++++++
+ _posts/{hexo_auto_pull_git.md => 2019-10-20-hexo_auto_pull_git.md}  | 0
+ _posts/aliPay.md                                                    | 5 -----
+ _posts/wechatPay.md                                                 | 5 -----
+ 14 files changed, 21 insertions(+), 10 deletions(-)
+ rename _posts/{webpack-1.md => 2018-08-24-webpack-1.md} (99%)
+ rename _posts/{webpack-2.md => 2018-08-25-webpack-2.md} (99%)
+ rename _posts/{webpack-3.md => 2018-08-26-webpack-3.md} (99%)
+ rename _posts/{webpack-4.md => 2018-08-27-webpack-4.md} (99%)
+ rename _posts/{nginx-config.md => 2018-11-02-nginx-config.md} (99%)
+ rename _posts/{nginx.md => 2018-11-09-nginx.md} (99%)
+ rename _posts/{javascript.md => 2018-12-07-javascript.md} (98%)
+ rename _posts/{centos_install_shadowscocks.md => 2019-05-21-centos_install_shadowscocks.md} (99%)
+ rename _posts/{webpack-proxy.md => 2019-08-05-webpack-proxy.md} (99%)
+ create mode 100644 _posts/2019-10-19-aliPay.md
+ create mode 100644 _posts/2019-10-19-wechatPay.md
+ rename _posts/{hexo_auto_pull_git.md => 2019-10-20-hexo_auto_pull_git.md} (100%)
+ delete mode 100644 _posts/aliPay.md
+ delete mode 100644 _posts/wechatPay.md
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 415 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2018/08/index.html
+INFO  Generated: archives/2019/05/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: archives/2018/11/index.html
+INFO  Generated: archives/2018/12/index.html
+INFO  Generated: archives/2019/08/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: 2019/10/19/2019-10-19-wechatPay/index.html
+INFO  Generated: 2018/12/07/2018-12-07-javascript/index.html
+INFO  Generated: 2019/08/05/2019-08-05-webpack-proxy/index.html
+INFO  Generated: 2019/05/21/2019-05-21-centos_install_shadowscocks/index.html
+INFO  Generated: 2019/10/21/2019-10-20-hexo_auto_pull_git/index.html
+INFO  Generated: 2018/11/09/2018-11-09-nginx/index.html
+INFO  Generated: 2018/08/27/2018-08-27-webpack-4/index.html
+INFO  Generated: 2019/10/19/2019-10-19-aliPay/index.html
+INFO  Generated: 2018/11/02/2018-11-02-nginx-config/index.html
+INFO  Generated: 2018/08/26/2018-08-26-webpack-3/index.html
+INFO  Generated: 2018/08/25/2018-08-25-webpack-2/index.html
+INFO  Generated: 2018/08/24/2018-08-24-webpack-1/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  65 files generated in 907 ms
+网站构建成功
+Process POST /git-hooks...
+切换到目录：/home/blog/source/
+From github.com:yxl2628/blog
+   14b9e39..9093362  master     -> origin/master
+Updating 14b9e39..9093362
+Fast-forward
+ _posts/2019-10-20-hexo_auto_pull_git.md | 1 +
+ 1 file changed, 1 insertion(+)
+INFO  Deleted database.
+INFO  Deleted public folder.
+INFO  Start processing
+INFO  Files loaded in 404 ms
+INFO  Generated: index.html
+INFO  Generated: favicon.ico
+INFO  Generated: category/index.html
+INFO  Generated: tag/index.html
+INFO  Generated: archives/index.html
+INFO  Generated: image/avatar.jpeg
+INFO  Generated: image/avatar.jpg
+INFO  Generated: archives/page/2/index.html
+INFO  Generated: archives/2018/08/index.html
+INFO  Generated: archives/2019/05/index.html
+INFO  Generated: categories/javascript/index.html
+INFO  Generated: page/2/index.html
+INFO  Generated: tags/webpack/index.html
+INFO  Generated: archives/2018/11/index.html
+INFO  Generated: archives/2018/12/index.html
+INFO  Generated: archives/2019/08/index.html
+INFO  Generated: archives/2019/10/index.html
+INFO  Generated: categories/server/index.html
+INFO  Generated: tags/ngnix/index.html
+INFO  Generated: tags/js/index.html
+INFO  Generated: tags/server-nodejs-git/index.html
+INFO  Generated: tags/linux-vpn/index.html
+INFO  Generated: archives/2018/index.html
+INFO  Generated: archives/2019/index.html
+INFO  Generated: fonts/iconfont/iconfont.eot
+INFO  Generated: css/base.css
+INFO  Generated: js/script.js
+INFO  Generated: css/custom.css
+INFO  Generated: css/font.css
+INFO  Generated: css/layout.css
+INFO  Generated: css/media.css
+INFO  Generated: css/normalize.css
+INFO  Generated: css/variable.css
+INFO  Generated: css/style.css
+INFO  Generated: fonts/iconfont/iconfont.ttf
+INFO  Generated: fonts/iconfont/iconfont.woff
+INFO  Generated: fonts/iconfont/iconfont.woff2
+INFO  Generated: fonts/iconfont/iconfont.svg
+INFO  Generated: images/other/aliPay.jpg
+INFO  Generated: images/server/aliyun-server.jpg
+INFO  Generated: fonts/iconfont/iconfont.js
+INFO  Generated: fonts/iconfont/demo_index.html
+INFO  Generated: js/tocbot.min.js
+INFO  Generated: fonts/iconfont/demo.css
+INFO  Generated: fonts/iconfont/iconfont.css
+INFO  Generated: images/other/wechatPay.png
+INFO  Generated: images/server/auto-blog.png
+INFO  Generated: 2019/10/19/2019-10-19-wechatPay/index.html
+INFO  Generated: 2018/12/07/2018-12-07-javascript/index.html
+INFO  Generated: 2019/08/05/2019-08-05-webpack-proxy/index.html
+INFO  Generated: 2019/05/21/2019-05-21-centos_install_shadowscocks/index.html
+INFO  Generated: 2018/11/09/2018-11-09-nginx/index.html
+INFO  Generated: 2018/08/27/2018-08-27-webpack-4/index.html
+INFO  Generated: 2019/10/20/2019-10-20-hexo_auto_pull_git/index.html
+INFO  Generated: 2018/11/02/2018-11-02-nginx-config/index.html
+INFO  Generated: 2018/08/26/2018-08-26-webpack-3/index.html
+INFO  Generated: 2018/08/25/2018-08-25-webpack-2/index.html
+INFO  Generated: 2018/08/24/2018-08-24-webpack-1/index.html
+INFO  Generated: 2019/10/19/2019-10-19-aliPay/index.html
+INFO  Generated: js/mathjax2.7.5.js
+INFO  Generated: fonts/lanting/lanting.woff2
+INFO  Generated: fonts/lanting/lanting.woff
+INFO  Generated: fonts/lanting/lanting.eot
+INFO  Generated: fonts/lanting/lanting.TTF
+INFO  Generated: fonts/lanting/lanting.otf
+INFO  65 files generated in 504 ms
+网站构建成功
+应用程序已经启动，访问地址:http://127.0.0.1:8888
