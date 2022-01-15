@@ -17,6 +17,6 @@
     "koa-bodyparser": "^4.2.1",
     "koa-router": "^7.4.0",
     "log4js": "^5.2.2",
-    "shelljs": "^0.8.3"
+    "shelljs": "^0.8.5"
   }
 }
